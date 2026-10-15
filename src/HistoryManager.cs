@@ -1,0 +1,1 @@
+namespace ProjectLab { public class HistoryManager { public void Save(string op) { } } }
